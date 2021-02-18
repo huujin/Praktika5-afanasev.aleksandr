@@ -1,0 +1,10 @@
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\bin\Debug\HOmework.18.exe.config
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\bin\Debug\HOmework.18.exe
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\bin\Debug\HOmework.18.pdb
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\obj\Debug\HOmework.18.csprojAssemblyReference.cache
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\obj\Debug\HOmework._18.Form1.resources
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\obj\Debug\HOmework._18.Properties.Resources.resources
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\obj\Debug\HOmework.18.csproj.GenerateResource.cache
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\obj\Debug\HOmework.18.csproj.CoreCompileInputs.cache
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\obj\Debug\HOmework.18.exe
+C:\Users\79100\source\repos\HOmework.18\HOmework.18\obj\Debug\HOmework.18.pdb
